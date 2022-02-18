@@ -6,6 +6,7 @@
 - 📫 How to reach me @here.
 - 🍳 Build experience with build systems Bazel and CMake.
 - 🍗 Build experience in scripting languages like Python and Bash.
+- 💡 Need app idea around home assitance on region specific.
 <!---
 suryakantwalunj/suryakantwalunj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
