@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning [#DartFlutter](https://flutter.dev/) [#Rust](https://www.rust-lang.org/) [#GoLang](https://go.dev/) [#Tensorflow](https://www.tensorflow.org/)
 - 💞️ I’m looking to collaborate on #not_yet_decided 
 - 📫 How to reach me @here.
-- 🍳 Build experience with build systems Bazel and CMake.
-- 🍗 Build experience in scripting languages like Python and Bash.
+- 🍳 Build experience with build systems [#Bazel](https://bazel.build/) and [#CMake](https://cmake.org/).
+- 🍗 Build experience in scripting languages in [#Python](https://docs.python.org/3/) and [#Bash](https://www.gnu.org/software/bash/manual/html_node/index.html#SEC_Contents).
 - 😎 [#Rustcean](https://rustaceans.org/)
 - 💡 Need app idea around home assitance on region specific.
 <!---
