@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning [#Rust](https://www.rust-lang.org/) [#GoLang](https://go.dev/) 
 - 💞️ I’m looking to collaborate on #not_yet_decided 
 - 📫 How to reach me @here.
-- Intetrest in ML[#Tensorflow](https://www.tensorflow.org/)
+- 💪🏽Intetrest in ML[#Tensorflow](https://www.tensorflow.org/)
 - 🍳 Build experience with build systems [#Bazel](https://bazel.build/) and [#CMake](https://cmake.org/).
 - 🍗 Build experience in scripting languages in [#Python](https://docs.python.org/3/) and [#Bash](https://www.gnu.org/software/bash/manual/html_node/index.html#SEC_Contents).
 - 😎 [#Rustcean](https://rustaceans.org/) [#tokio](https://tokio.rs/)
